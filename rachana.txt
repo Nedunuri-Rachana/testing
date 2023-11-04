@@ -1,1 +1,9 @@
-rachana
+# Github-demo
+This is my first repository.
+<br>
+<<<<<<< HEAD
+Author : Nedunnuri Rachana
+=======
+Author : Nedunuri (NEDUNURI RACHANA)
+
+>>>>>>> 73a5324 (Add new parapragh)
